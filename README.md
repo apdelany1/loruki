@@ -1,0 +1,1 @@
+Loruki is the first complete website i will be re creating on VS code. it is a project invented by Traversy media. He does a walk through and i am following along. 
